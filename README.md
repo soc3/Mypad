@@ -7,3 +7,6 @@ Format : formatting the text by all the means available in MS word eg: Bold , It
 Changing Size, Changing Style eg: Arial, Times New Roman. A sample display of changes that would occur to your 
 text after using font is also done.
 I am still working on the feature indentation mode and its' more advanced version will be updated soon.
+------------------------------------------------------------------------------
+
+For Hugs and Bugs drop a mail at sushantoberoi3@gmail.com
